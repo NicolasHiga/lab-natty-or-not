@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## AI Art Gallery
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A AI Art Gallery é uma coleção de imagens de arte abstrata geradas por inteligência artificial, inspiradas por descrições textuais criativas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* DALL-E: Utilizado para gerar imagens a partir de descrições textuais.
+* GPT-3: Para criar descrições textuais das imagens geradas, simulando o ponto de vista de um crítico de arte.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+1. Definição de uma lista de temas e conceitos para as obras de arte.
+2. Utilização do GPT-3 para gerar descrições textuais detalhadas de cada obra de arte, incluindo elementos como cores, formas e emoções transmitidas.
+3. Utilização do DALL-E para gerar imagens a partir das descrições textuais, criando representações visuais das obras de arte conceituais.
+   
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+* Uma galeria de imagens de arte abstrata geradas por inteligência artificial, cada uma acompanhada de uma descrição textual detalhada.
+* Os visitantes podem explorar as obras de arte e ler as descrições para entender melhor a inspiração por trás de cada peça.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Explorar a criação de arte com IA desafia a noção tradicional de autoria e criatividade. Ao permitir que uma máquina interprete e reinterprete conceitos abstratos, podemos questionar o papel do artista humano na criação de significado e expressão.
